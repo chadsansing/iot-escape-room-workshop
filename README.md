@@ -32,7 +32,7 @@ Workshop topics include:
 - How the design process works.
 - Prototyping puzzles, stories, and documentation for an IoT Escape Room.
 
-We work intentionally to recruit facilitators from diverse backgrounds and with a veriaty of expertise. For example, for our first workshop, facilitators will join us from:
+We work intentionally to recruit facilitators from diverse backgrounds and with a veriaty of expertise. For example, for our first workshop, facilitators joined us from:
 
 - Mozilla's Communications team.
 - Mozilla's Gigabit team.
