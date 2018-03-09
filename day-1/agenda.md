@@ -1,0 +1,37 @@
+## Day 1 agenda
+
+- **9:00 - 9:30 AM:** Doors open, registration & light breakfast (30 minutes)
+- **9:30 - 9:55 AM:** Welcome & introduction to organizers & sponsors (25 minutes)
+  - Welcome & thanks (5 minutes)
+  - What is [Organizer]? (5 minutes)
+  - What is [Sponsor]? (5 minutes)
+  - Introductions (10 minutes)
+      - Who are you?
+      - Where are you local?
+      - What do you do?
+      - What brings you here?
+- **9:55 - 10:20 AM:** articipation guidelines & safety tips (25 minutes)
+    - Community Participation Guidelines briefing and Q&A (10 minutes)
+    - Introduce safety officers (5 minutes)
+    - Safety tips and tools (5 minutes)
+    - Emergency exits, restrooms, self-care (5 minutes)
+- **10:20 AM - 11:00 AM:** The Internet, Gigabit networks, and privacy & security (40 minutes)
+  - Perform the Net (20 minutes)
+  - Gigabit Art (10 minutes)
+  - Privacy & security spectrogram (10 minutes)
+- **11:00 AM - 11:15 AM:** Break (15 minutes)
+- **11:30 AM - 12:30 PM:** Intro to connected devices & IoT, & the library of interactions (60 minutes)
+  - Connected devices sort & discussion (30 minutes)
+  - Imagining ioT walk (30 minutes)
+- **12:30 - 1:30 PM:** Lunch (60 minutes)
+- **1:30 - 2:45 PM:** Hands on prototyping & storytelling with table groups (75 minutes)
+  - Design deck activity (30 minutes)
+  - Introduction to IoT Escape Room Challenge (20 minutes
+  - Decide on a theme and audience together (20 min)
+  - Explain tables & introduce facilitators (5 min)
+        - Storytelling
+        - Documentation
+        - Device prototypes
+        - Paper prototypes
+- **2:45 - 4:00 PM:** Table time
+- **4:00 - 4:30 PM:** Q&A, reflection, & clean-up
