@@ -51,3 +51,44 @@ Have a question or suggestion about the IoT Escape Room event? Please email curr
 
 ## How to use this repo
 
+This repo is meant to provide methods and examples to use in facilitasting your own IoT Escape Room workshop.
+
+It's our hope that you can use the activities, methods, and materials described in this repo to facilitate your own version of an IoT Escape Room workshop in your community.
+
+There are 4 major components to the repo:
+
+1. Day 1
+2. Day 2
+3. Materials
+4. Examples
+
+### Day 1
+
+Day 1 includes several leveling activities meant to establish common background knowledge amongst participants about
+
+- The Internet.
+- Gigabit networks.
+- Online privacy & security issues.
+- The Internet of Things and connected devices.
+- Design.
+- The IoT Escape Room challenge itself.
+
+Day 1 also includes a method for choosing a theme and audience for the work by consensus.
+
+### Day 2
+
+Day 2 is meant to be a more open, emergent, and sprint-like experience as participants document their work, create a story for their escape room, and build the protoypes they want to use to get people asking questions about privacy & security.
+
+We've included the methods we use to help participants form working groups and communicate with one another to develop the story, prototypes, and documentation they need to build and share an IoT escape room with their communities in places like librariers, schools, and community centers.
+
+### Materials
+
+Special printables and materials are available inside the repo's "materials" folder. You should source generic supplies like craft materials, sticky notes, and tape from wherever you normally do.
+
+### Examples
+
+We've invited participants to share artifacts from their work at past workshops with us and the broader IoT Escape Room community. In this folder you'll find photos, snippets of code, and other pieces of documentation meant to inspire prototypes in future workshops.
+
+## Contact
+
+If you have any questions about this workshop model, this repo, or running your own IoT Escape Room event, please feel free to contact project lead [Chad Sansing](mailto:chad@mozillafoundation.org) to talk shop, offer feedback, and ask questions.
