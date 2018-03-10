@@ -49,6 +49,12 @@ If any of this sounds good to you, please let us know how to help you take next 
 
 Have a question or suggestion about the IoT Escape Room event? Please email curriculum manager [Chad Sansing](mailto:chad@mozillafoundation.org) or reach out on [Twitter](https://twitter.com/chadsansing).
 
+## Who is this repo for?
+
+Everything in this repo and the G Docs folder sharing the same materials is openly licensed for re-use.
+
+These materials are meant for activists, educators, librarians, and technologists who want to replicate this workshop or any part of it for their communities.
+
 ## How to use this repo
 
 This repo is meant to provide methods and examples to use in facilitasting your own IoT Escape Room workshop.
