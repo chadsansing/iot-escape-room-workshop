@@ -51,7 +51,7 @@ Have a question or suggestion about the IoT Escape Room event? Please email curr
 
 ## Who is this repo for?
 
-Everything in this repo and the G Docs folder sharing the same materials is openly licensed for re-use.
+Everything in this repo and the [Google Drive folder](https://drive.google.com/drive/folders/1RfXgqHbLDygJ-ldJYfHEM76rAXc6rZ7b?usp=sharing) sharing the same materials is openly licensed for re-use.
 
 These materials are meant for activists, educators, librarians, and technologists who want to replicate this workshop or any part of it for their communities.
 
