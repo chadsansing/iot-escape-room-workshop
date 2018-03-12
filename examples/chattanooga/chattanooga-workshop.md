@@ -13,7 +13,7 @@ This puzzle is meant to help people ask what kinds of information their devices 
 
 The Double Key Takeoff Control Panel has two unique key switches wired in series to an Arduino. When the Arduino detects that circuit is complete (meaning both keys have turned), it activates a rainbow sequence of WS2811 LEDs. The design could be improved with sound.
 
-This puzzle is meant to help people think about securing acounts and revices with 2-factor authentication.
+This puzzle is meant to help people think about securing acscount and devices with 2-factor authentication.
 
 - https://www.adafruit.com/product/1426
 - http://a.co/beI4MQw
