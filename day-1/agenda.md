@@ -10,7 +10,7 @@
       - Where are you local?
       - What do you do?
       - What brings you here?
-- **9:55 - 10:20 AM:** articipation guidelines & safety tips (25 minutes)
+- **9:55 - 10:20 AM:** Participation guidelines & safety tips (25 minutes)
     - Community Participation Guidelines briefing and Q&A (10 minutes)
     - Introduce safety officers (5 minutes)
     - Safety tips and tools (5 minutes)

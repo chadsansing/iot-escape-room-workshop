@@ -20,6 +20,6 @@
 
 ## Follow-up
 
-A face-to-face debrief for organizaers and facilitators should occur shortly after the event - perhaps over dinner on day 2 or over breakfast the next morning.
+A face-to-face debrief for organizers and facilitators should occur shortly after the event - perhaps over dinner on day 2 or over breakfast the next morning.
 
-A survey should be sent to participants withing a week of the workshop to ask how the event felt, how each part felt, whether or not participants would use part of the workshop or the whole workshop again, and how participants would change the workshop and any of its parts for their communities.
+A survey should be sent to participants within a week of the workshop to ask how the event felt, how each part felt, whether or not participants would use part of the workshop or the whole workshop again, and how participants would change the workshop and any of its parts for their communities.

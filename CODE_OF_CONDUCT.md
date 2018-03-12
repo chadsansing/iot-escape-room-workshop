@@ -20,13 +20,13 @@ Mozilla's [Community Participation Guidelines](https://www.mozilla.org/en-US/abo
 
 ## Reporting incidents
 
-Be sure to name safety officers for your event and explain how participants can make reports about incidents at your event or in your cmmunity. 
+Be sure to name safety officers for your event and explain how participants can make reports about incidents at your event or in your community. 
 
 It helps to have multiple, diverse safety officers. These officers should take on-site reports and respond to them. They can also contact and work with any other safety leads in your organization as necessary.
 
 If you are running a Mozilla event, you can also report incidents to inclusion@mozilla.com. 
 
-Here is the link to Mozilla's Community Publication Guidlines: https://www.mozilla.org/en-US/about/governance/policies/participation/
+Here is the link to Mozilla's Community Publication Guidelines: https://www.mozilla.org/en-US/about/governance/policies/participation/
 
 ## Other safety considerations
 
@@ -34,7 +34,7 @@ Consider sharing widely applicable safety tools like these:
 
 - **Womp womp:** Say, "Womp womp," whenever a speaker needs to explain an idea further or stop using jargon.
 - **The 1/nth rule:** Remind people that in a group of n participants, they should each speak only 1/nth of the time.
-- **Yes and:** Remind people to work hard to provide additive, constructive criticism, builing off of one anothers ideas instead of attacking them. For example, someone might say, "We should do X," and then someone who has an idea about how to go further or improve that idea might say, "Yes, and then we could do Y to add even more value for audience Z."
+- **Yes and:** Remind people to work hard to provide additive, constructive criticism, builing off of one another's ideas instead of attacking them. For example, someone might say, "We should do X," and then someone who has an idea about how to go further or improve that idea might say, "Yes, and then we could do Y to add even more value for audience Z."
 - **Avoid interruptions:** Remind people to work hard not to interrupt and to be thoughtful about making a few, essential, unique contributions to conversations instead of responding to everything.
 
 You should also remind people:
