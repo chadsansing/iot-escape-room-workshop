@@ -68,6 +68,13 @@ There are 4 major components to the repo:
 3. Materials
 4. Examples
 
+Within each day, we've split agenda items into "activities" and "methods."
+
+- **Activities** tend to unfold the same way each time with relatively similar outcomes as directed by facilitators.
+- **Methods** tend to unfold differently each time and include some kind of consensus-building process involving all participants in setting the direction for the workshop.
+
+Please let us know if this seems like a useful distinction for you and your facilitators.
+
 ### Day 1
 
 Day 1 includes several leveling activities meant to establish common background knowledge amongst participants about
@@ -83,7 +90,7 @@ Day 1 also includes a method for choosing a theme and audience for the work by c
 
 ### Day 2
 
-Day 2 is meant to be a more open, emergent, and sprint-like experience as participants document their work, create a story for their escape room, and build the protoypes they want to use to get people asking questions about privacy & security.
+Day 2 is meant to be a more open, emergent, and sprint-like experience as participants document their work, identify an audience and create a story for their escape room, and build the protoypes they want to use to get people asking questions about privacy & security on connected devices.
 
 We've included the methods we use to help participants form working groups and communicate with one another to develop the story, prototypes, and documentation they need to build and share an IoT escape room with their communities in places like librariers, schools, and community centers.
 

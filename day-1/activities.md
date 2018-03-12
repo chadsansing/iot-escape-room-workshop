@@ -26,7 +26,7 @@ Finally, make sure people know where to go if they need a restroom or to use a f
 - Form small improv groups of 4-5 actors. Get together and brainstorm a way to perform how the Internet works. Think about how to use your space - you can perform anywhere there's room in the space around you and spread out and move around as much as you'd like. Think about the materials around you and grab any props that might help you show the Net at work.
 - Perform your skits for one another. Applaud your heart out for the other groups. Laugh and cheer at especially great moments of Performing the Net history!
 
-## Gigabit activity: Sticky Note Art
+## Gigabit activity: sticky note art
 
 **Materials:** sticky notes
 
@@ -80,7 +80,7 @@ Finally, make sure people know where to go if they need a restroom or to use a f
 **Materials:** a large wall space or floor space to lay all of the cards and map out, wall matrix map, Chattanooga map/support probes, *privacy not included cards, sharpies/pens, blue tac
 
 - There are 2 parts to the activity. 
-  - **Part 1:** We’ll map out how people feel about different types of IoT on a large wall. Each participant will get 2 cards describing connected devices in the *privacy not included guide. Then each participant will place their cards on the wall relative to 2 axes. The vertical axis will run from "I don't want this" to "I want this," and the horizontal axis will run from "I am concerned" about this device to "I am not concerned." Then participants will be have the opportunity to volcaize which devices they put where and to discuss the trade-offs in each that create tensions between convenience and privacy.
+  - **Part 1:** We’ll map out how people feel about different types of Inter of Things (IoT) devices on a large wall. Each participant will get 2 cards describing connected devices in the *privacy not included guide. Then each participant will place their cards on the wall relative to 2 axes. The vertical axis will run from "I don't want this" to "I want this," and the horizontal axis will run from "I am concerned" about this device to "I am not concerned." Then participants will be have the opportunity to volcaize which devices they put where and to discuss the trade-offs in each that create tensions between convenience and privacy.
   - **Part 2:** We'll explore the city around our workshop site looking at the different internet touchpoints and imagining about future interactions we could have here. After we get back together in our workshop space, we'll share what we saw, what we imagined for the future, and perhaps add some of the devices we saw or imagined to our matrix of desirability and concern.
 
 ## Design deck activity
@@ -130,3 +130,18 @@ Ask for audience explanations and stories to activate prior knowledge, share exp
   - Our room may be a small set, a series of demos or puzzles, or a gallery walk.
   - We will decide on a theme together and begin writing and building our room.
   - We will share what we have with the public tomorrow afternoon.
+
+## Forming groups
+
+Invite participants to form groups according to the comfort levels and interest in designing and building the group's IoT escape room.
+
+For example, we set up 4 stations for groups like these:
+
+- **Documentation:** Create the facilitation materials needed to run a workshop like this one.
+- **Storytelling:** Develop the story of the escape room and help the prototyping groups create puzzles that fit within it.
+- **Paper prototyping:** Use paper, cardboard, cardstock, glue, and other materials to crate puzzles that model different kinds of IoT interactions and issues without needing to build or code soemthing like a circuit or script.
+- **Device Prototyping:** Use available protyping materials such as paper circuitry supplies, arduinos, Raspberry Pis, and other electronics supplies to create puzzles that fit within the room's narrative and encourage participants to ask questions about their privacy and sucrity on conncted devices.
+
+Our hope was to differentiate in a way that allowed everyone to find a role in the project that felt fulfilling and gave them a concrete way to contribute to the work.
+
+Other instances of the workshop might also group participants by puzzle or any other facet of the design or escape room experience.
