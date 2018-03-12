@@ -43,4 +43,4 @@ You should also remind people:
 - Where the emergency exits are.
 - To take breaks for self care whenever they need them.
 
-Be aware of the dynamics in the room or at your event and prepare to answer questions and work towards resolution of issues like - but not limited to - mansplaining or microaggressions that might happen in your community.
+Be aware of the dynamics in the room or at your event and prepare to answer questions and work towards resolution of issues like - but not limited to - mansplaining or microaggressions that might happen within your event community.

@@ -22,7 +22,7 @@ You can use one check-in meeting to run through several tech demos early on day 
 
 <img src="images/tech-demos.jpg" alt="Sharing tech demos" width="50%"> 
 
-Teach demos are brief explanations of the technology and interactions available at your event so that everyone on each team can get inspired and share ideas about how to use those supplies. 
+Tech demos are brief explanations of the technology and interactions available at your event so that everyone on each team can get inspired and share ideas about how to use those supplies. 
 
 Tech demos can be done spontaneously or recorded before an event and shown on a screen or shared online.
 

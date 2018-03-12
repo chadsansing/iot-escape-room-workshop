@@ -12,18 +12,22 @@ Finally, make sure people know where to go if they need a restroom or to use a f
 
 **Materials:** crafting supplies, game pieces, minifigs, tape, string, scissors, paper, markers
 
-- Ask learners, "How do you get to the Internet?"
-- Take a few ideas from the group, then explain the following:
+- Ask learners, "How do you get to the Internet?" Take a few ideas from the group, then explain the following:
 
   The "Internet" is a system of networks and the "Web" sits on top of the Internet and provides an interface for viewing and interacting with the information stored in various computers around the world.
+  
 - Further explain that:
 
   Anytime you ask the Internet to do something, whether by entering a URL into a browser or watching a video on YouTube, your internet request "hops" through several network devices, like routers and switches and servers, on its way from your computer to the website’s server.
+  
 - Watch this introductory video (also linked from this picture) to give learners a little more context before starting the obstacle course:
 
   https://www.youtube.com/watch?v=ewrBalT_eBM 
 
-- Form small improv groups of 4-5 actors. Get together and brainstorm a way to perform how the Internet works. Think about how to use your space - you can perform anywhere there's room in the space around you and spread out and move around as much as you'd like. Think about the materials around you and grab any props that might help you show the Net at work.
+- Then deliver these instructions:
+
+  Form small improv groups of 4-5 actors. Get together and brainstorm a way to perform how the Internet works. Think about how to use your space - you can perform anywhere there's room in the space around you and spread out and move around as much as you'd like. Think about the materials around you and grab any props that might help you show the Net at work.
+  
 - Perform your skits for one another. Applaud your heart out for the other groups. Laugh and cheer at especially great moments of Performing the Net history!
 
 ## Gigabit activity: sticky note art
@@ -80,8 +84,14 @@ Finally, make sure people know where to go if they need a restroom or to use a f
 **Materials:** a large wall space or floor space to lay all of the cards and map out, wall matrix map, Chattanooga map/support probes, *privacy not included cards, sharpies/pens, blue tac
 
 - There are 2 parts to the activity. 
-  - **Part 1:** We’ll map out how people feel about different types of Inter of Things (IoT) devices on a large wall. Each participant will get 2 cards describing connected devices in the *privacy not included guide. Then each participant will place their cards on the wall relative to 2 axes. The vertical axis will run from "I don't want this" to "I want this," and the horizontal axis will run from "I am concerned" about this device to "I am not concerned." Then participants will be have the opportunity to volcaize which devices they put where and to discuss the trade-offs in each that create tensions between convenience and privacy.
+  - **Part 1:** We’ll map out how people feel about different types of Inter of Things (IoT) devices on a large wall. Each participant will get 2 cards describing connected devices in the *privacy not included guide. Then each participant will place their cards on the wall relative to 2 axes. The vertical axis will run from "I don't want this" to "I want this," and the horizontal axis will run from "I am concerned" about this device to "I am not concerned." Then participants will be have the opportunity to vocalize which devices they put where and to discuss the trade-offs in each that create tensions between convenience and privacy.
+
+<img src="images/iot-matrix.jpg" alt="Pictures of onnected devices plotted on a matrix of desirability and privacy
+" width="50%">  
+  
   - **Part 2:** We'll explore the city around our workshop site looking at the different internet touchpoints and imagining about future interactions we could have here. After we get back together in our workshop space, we'll share what we saw, what we imagined for the future, and perhaps add some of the devices we saw or imagined to our matrix of desirability and concern.
+  
+<img src="images/iot-map" alt="A map of the city around the event space marked with observed and imagined IoT devices" width="50%">
 
 ## Design deck activity
 
