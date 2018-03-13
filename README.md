@@ -8,7 +8,7 @@ At Mozilla, we believe in participatory learning, and this IoT Escape Room works
 
 By building and documenting an escape room prototype with activists, educators, and librarians, we hope to create a kit that our participants and their organizations can use, share, adapt, and replicate to teach their communities about the opportunities connected devices bring to our daily lives and the challenges they present to our individual and collective privacy and security.
 
-<img src="images/iot-poster.jpg" alt="Our Chattanooga workshop poster" height="200px">
+<img src="images/iot-poster.jpg" alt="Our Chattanooga workshop poster" width="50%">
 
 Working within the framework of our Open Leadership Map (now in public beta), we’ve worked to design and build an event that will empower participants to:
 
