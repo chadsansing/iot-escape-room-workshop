@@ -1,6 +1,10 @@
 # iot-escape-room-workshop
 
+<<<<<<< HEAD
 Project lead: [Chad Sansing](mailto:chad@mozillafoundation.org) & [Katie Hendrix](mailto:katieh@mozillafoundation.org)
+=======
+Project leads: [Chad Sansing](mailto:chad@mozillafoundation.org) and [Katie Hendrix] (mailto:katieh@mozillafoundation.org)  
+>>>>>>> origin/master
 
 ## Background
 
@@ -41,7 +45,11 @@ We work intentionally to recruit facilitators from diverse backgrounds and with 
 - Mozilla's NSF WINS challenge team.
 - Mozilla's Open IoT Studio team.
 - Mozilla's Open Leadership & Events team.
+<<<<<<< HEAD
 - Chattanooga's Gigabit Community Fund community.
+=======
+- The Chattanooga Gigabit Community Fund community.
+>>>>>>> origin/master
 - Our network’s design community.
 - Our network’s open data community.
 
@@ -86,7 +94,7 @@ Day 1 includes several leveling activities meant to establish common background 
 - Online privacy & security issues.
 - The Internet of Things and connected devices.
 - Design.
-- The IoT Escape Room challenge itself.
+- The IoT Escape Room challenge itself. 
 
 Day 1 also includes a method for choosing a theme and audience for the work by consensus.
 
