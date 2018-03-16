@@ -84,7 +84,7 @@ Finally, make sure people know where to go if they need a restroom or to use a f
 **Materials:** a large wall space or floor space to lay all of the cards and map out, wall matrix map, Chattanooga map/support probes, *privacy not included cards, sharpies/pens, blue tac
 
 - There are 2 parts to the activity. 
-  - **Part 1:** We’ll map out how people feel about different types of Inter of Things (IoT) devices on a large wall. Each participant will get 2 cards describing connected devices in the *privacy not included guide. Then each participant will place their cards on the wall relative to 2 axes. The vertical axis will run from "I don't want this" to "I want this," and the horizontal axis will run from "I am concerned" about this device to "I am not concerned." Then participants will be have the opportunity to vocalize which devices they put where and to discuss the trade-offs in each that create tensions between convenience and privacy.
+  - **Part 1:** We’ll map out how people feel about different types of Internet of Things (IoT) devices on a large wall. Each participant will get 2 cards describing connected devices in the *privacy not included guide. Then each participant will place their cards on the wall relative to 2 axes. The vertical axis will run from "I don't want this" to "I want this," and the horizontal axis will run from "I am concerned" about this device to "I am not concerned." Then participants will be have the opportunity to vocalize which devices they put where and to discuss the trade-offs in each that create tensions between convenience and privacy.
 
 <img src="images/iot-matrix.jpg" alt="Pictures of onnected devices plotted on a matrix of desirability and privacy
 " width="50%">  
@@ -98,7 +98,7 @@ Finally, make sure people know where to go if they need a restroom or to use a f
 **Materials:** design decks, canvases
 
 - We’ll use this design deck to learn about designing IoT prototypes.
-- The deck helps us identify problems, design for users, and develop possible solutions
+- The deck helps us identify problems, design for users, and develop possible solutions.
 - These cards will give us problems called scenarios, users called personas, and possible solutions called technologies.
 - We’ll use a “canvas,” or organizer, to capture how we think we can help this person solve a problem with this technology.
 - You can mix and match and try again - big idea is to practice design thinking in a fun, social, collaborative way, not have the perfect answer.

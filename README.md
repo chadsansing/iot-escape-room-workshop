@@ -1,6 +1,6 @@
 # iot-escape-room-workshop
 
-Project lead: [Chad Sansing](mailto:chad@mozillafoundation.org)
+Project lead: [Chad Sansing](mailto:chad@mozillafoundation.org) & [Katie Hendrix](mailto:katieh@mozillafoundation.org)
 
 ## Background
 
@@ -34,14 +34,14 @@ Workshop topics include:
 - How the design process works.
 - Prototyping puzzles, stories, and documentation for an IoT Escape Room.
 
-We work intentionally to recruit facilitators from diverse backgrounds and with a veriaty of expertise. For example, for our first workshop, facilitators joined us from:
+We work intentionally to recruit facilitators from diverse backgrounds and with a variety of expertise. For example, for our first workshop, facilitators joined us from:
 
 - Mozilla's Communications team.
 - Mozilla's Gigabit team.
 - Mozilla's NSF WINS challenge team.
 - Mozilla's Open IoT Studio team.
 - Mozilla's Open Leadership & Events team.
-- The Chattanooga Gigabit Fund community.
+- Chattanooga's Gigabit Community Fund community.
 - Our network’s design community.
 - Our network’s open data community.
 
@@ -53,7 +53,7 @@ Have a question or suggestion about the IoT Escape Room event? Please email curr
 
 ## Who is this repo for?
 
-Everything in this repo and the [Google Drive folder](https://drive.google.com/drive/folders/1RfXgqHbLDygJ-ldJYfHEM76rAXc6rZ7b?usp=sharing) sharing the same materials is openly licensed for re-use.
+Everything in this repo and in the [Google Drive folder](https://drive.google.com/drive/folders/1RfXgqHbLDygJ-ldJYfHEM76rAXc6rZ7b?usp=sharing) sharing the same materials is openly licensed for re-use.
 
 These materials are meant for activists, educators, librarians, and technologists who want to replicate this workshop or any part of it for their communities.
 
@@ -94,7 +94,7 @@ Day 1 also includes a method for choosing a theme and audience for the work by c
 
 Day 2 is meant to be a more open, emergent, and sprint-like experience as participants document their work, identify an audience and create a story for their escape room, and build the prototypes they want to use to get people asking questions about privacy & security on connected devices.
 
-We've included the methods we use to help participants form working groups and communicate with one another to develop the story, prototypes, and documentation they need to build and share an IoT escape room with their communities in places like libraries, schools, and community centers.
+We've included the methods we used to help participants form working groups and communicate with one another to develop the story, prototypes, and documentation they need to build and share an IoT escape room with their communities in places like libraries, schools, and community centers.
 
 ### Materials
 

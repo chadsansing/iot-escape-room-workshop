@@ -26,7 +26,7 @@ Tech demos are brief explanations of the technology and interactions available a
 
 Tech demos can be done spontaneously or recorded before an event and shown on a screen or shared online.
 
-Each demo should be short. For example, a tech demo of a light sensor might go like this: "This is a light sensor. We can use it to activate a device or unlock something. We can use it to fake or just model other sensores like fingerprint or retina scanners, too."
+Each demo should be short. For example, a tech demo of a light sensor might go like this: "This is a light sensor. We can use it to activate a device or unlock something. We can use it to fake or just model other sensors like fingerprint or retina scanners, too."
 
 After each demo, invite participants to share a few ideas about how that technoligy might be used in the story or as part of a puzzle within it.
 
