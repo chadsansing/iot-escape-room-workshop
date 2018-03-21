@@ -1,6 +1,6 @@
 # iot-escape-room-workshop
 
-Project leads: [Chad Sansing](mailto:chad@mozillafoundation.org) and [Katie Hendrix] (mailto:katieh@mozillafoundation.org)  
+Project leads: [Chad Sansing](mailto:chad@mozillafoundation.org) and [Katie Hendrix](mailto:katieh@mozillafoundation.org)  
 
 ## Background
 
