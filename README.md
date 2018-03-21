@@ -106,4 +106,4 @@ We've invited participants to share artifacts from their work at past workshops 
 
 ## Contact
 
-If you have any questions about this workshop model, this repo, or running your own IoT Escape Room event, please feel free to contact either project lead, [Chad Sansing](mailto:chad@mozillafoundation.org) or [Katie Hendrix](mailto:katieh@mozillafoundation.org) to talk shop, offer feedback, and ask questions.
+If you have any questions about this workshop model, this repo, or running your own IoT Escape Room event, please feel free to contact either project lead, [Chad Sansing](mailto:chad@mozillafoundation.org) or [Katie Hendrix](mailto:katieh@mozillafoundation.org), to talk shop, offer feedback, and ask questions.
