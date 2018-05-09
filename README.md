@@ -104,6 +104,10 @@ Special printables and materials are available inside the repo's "materials" fol
 
 We've invited participants to share artifacts from their work at past workshops with us and the broader IoT Escape Room community. In this folder you'll find photos, snippets of code, and other pieces of documentation meant to inspire prototypes in future workshops.
 
+##Looking for more?
+
+Check out this [amazing set of toolkits](https://www.ideasofthings.eu/tool-showcase) from [Ideas of Things](https://www.ideasofthings.eu/).
+
 ## Contact
 
 If you have any questions about this workshop model, this repo, or running your own IoT Escape Room event, please feel free to contact either project lead, [Chad Sansing](mailto:chad@mozillafoundation.org) or [Katie Hendrix](mailto:katieh@mozillafoundation.org), to talk shop, offer feedback, and ask questions.
