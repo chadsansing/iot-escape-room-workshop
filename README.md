@@ -104,7 +104,7 @@ Special printables and materials are available inside the repo's "materials" fol
 
 We've invited participants to share artifacts from their work at past workshops with us and the broader IoT Escape Room community. In this folder you'll find photos, snippets of code, and other pieces of documentation meant to inspire prototypes in future workshops.
 
-##Looking for more?
+## Looking for more?
 
 Check out this [amazing set of toolkits](https://www.ideasofthings.eu/tool-showcase) from [Ideas of Things](https://www.ideasofthings.eu/).
 
