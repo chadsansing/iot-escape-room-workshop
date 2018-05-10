@@ -17,4 +17,4 @@ If you have more experience with GitHub or more technical experience you can als
 - For this repo, add your own materials and designs for prototype devices and puzzles, and ship a PR back to Chad.
 - Create online IoT Escape Room puzzles to share with anyone interested in this work and send us the links so we can help people find your work.
 
-Your participation in this project and contributions to it are not limited to these suggestions. We'd love to help you understand and implement this kind of workshop however we can.
+Your participation in this project and contributions to it are not limited to these suggestions. We'd love to help you understand and implement this kind of workshop however we can. Thanks!
